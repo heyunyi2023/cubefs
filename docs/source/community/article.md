@@ -28,6 +28,7 @@
 
 ## Technical Insights
 
+- [Secret of CubeFS Technology | Metadata Subsystem Design](https://mp.weixin.qq.com/s/03SUN3EsbHRC19R6GHQUdA)，2023-08-01，ZhiXiang Tang
 - [CubeFS "source" interpretation｜Asynchronous deletion and data repair of erasure code](https://mp.weixin.qq.com/s/d3l3v2V5K-ifSDWdm9caTw)，2023-07-04，Tianyue Peng
 - [Interpretation of CubeFS "source" | HTTP service of Master module](https://mp.weixin.qq.com/s/rqmdSs-w0qgE5Ual4KgpmQ)，2023-06-15，Huocheng Wu
 - [CubeFS Original Solution丨Native HDFS Protocol Access Support](https://mp.weixin.qq.com/s/vw9O9ssHIWDIozjYkoy8IA) , 2023-05-31, Tianjiong,Zhang
